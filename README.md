@@ -1,6 +1,10 @@
 ## Introduction
 
-This is the final project report for the OMSCS Program Human Computer Interaction class took in Fall 2022. I performed an analysis related to the Twitter Space function. The final grade for this project is 100/100. The high-level executive summary can be found below.
+This is the final project report for the OMSCS Program Human Computer Interaction class(CS6750) I took in Fall 2022. I performed a cognitive analysis of the user interface related to the Twitter Space function.
+
+The requirements of the project can be found in https://omscs6750.gatech.edu/fall-2022/project/
+
+The final grade for this project is 100/100. A high-level executive summary was detailed found below.
 
 #### Executive Summary
 
