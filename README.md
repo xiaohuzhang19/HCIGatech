@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 
 Social network live audio applications such as Clubhouse gained great popularity in 2021 during the pandemic. 
 People quite enjoy having a live audio chat within a chat room. 
