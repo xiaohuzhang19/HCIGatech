@@ -4,7 +4,7 @@ This is the final project report for the OMSCS Program Human Computer Interactio
 
 The requirements of the project can be found in https://omscs6750.gatech.edu/fall-2022/project/
 
-The final grade for this project is 100/100. A high-level executive summary was detailed found below.
+The final grade for this project is 100/100. Executive summary is detailed below.
 
 #### Executive Summary
 
